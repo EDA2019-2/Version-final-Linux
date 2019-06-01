@@ -1,0 +1,4 @@
+Personaje: Excelente.
+Asistente: Te ayudará en casos de pelea, pero como dije, si me escuchas no será tan necesario.
+Personaje: ¿A dónde debo ir ahora?
+Asistente: Pese a que resultaría cómodo repetir tus acciones cuando resultaron beneficiosas, te propondría no seguir apostando por el mismo lado cada vez.

@@ -1,0 +1,5 @@
+5abbb.txt
+n
+map_guide_5_abba.txt
+map_guide_5_abbb.txt
+0	0	0	0	0	1

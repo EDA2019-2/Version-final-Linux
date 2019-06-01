@@ -1,0 +1,5 @@
+Asistente: Al parecer encontraste un arma nueva. Te felicito, será más útil entre más cerca estés de la salida.
+Personaje: ¿Al menos estoy más cerca?
+Asistente: Puedes estar más cerca pero a la vez más lejos. Realmente es más cuestión de perspectiva.
+Personaje: No lo entiendo.
+Asistente: Ya lo harás. Ahora, quizá la siguiente bifurcación no te vaya a gustar. Bien puedes estrenar el arma que acabas de obtener, o reencontrarte con aquellos que se han quedado en el camino. En ese orden

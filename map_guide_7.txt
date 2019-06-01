@@ -1,0 +1,5 @@
+71.txt
+72.txt
+map_guide_7.txt
+map_guide_7.txt
+0	0	0	0	1	0

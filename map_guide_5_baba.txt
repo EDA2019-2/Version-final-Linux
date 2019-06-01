@@ -1,0 +1,5 @@
+n
+5baba.txt
+map_guide_6.txt
+map_guide_6.txt
+1	0	0	0	0	0

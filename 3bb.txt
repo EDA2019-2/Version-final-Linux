@@ -1,0 +1,5 @@
+Asistente:  Te advertí que no apostaras por el mismo lado. Si continúas sin escucharme, no llegarás con vida a tu destino. Repetir no siempre es la respuesta.
+Personaje: ¿Qué había del otro lado?
+Asistente: Desafortunado es el hombre por vivir una sola vida, pues siempre se preguntará qué hay en el lugar al que decidió no ir, qué hay detrás de la puerta que prefirió no abrir. Una vida nunca es suficiente para conocer todos los caminos.
+Personaje: Tendré que seguir hacia adelante.
+Asistente: Sí, por ahora.

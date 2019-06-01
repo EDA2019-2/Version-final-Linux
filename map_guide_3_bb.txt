@@ -1,0 +1,5 @@
+n
+3bb.txt
+map_guide_4_bba.txt
+map_guide_4_bbb.txt
+1	0	0	0	0	0

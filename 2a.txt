@@ -1,0 +1,5 @@
+Asistente: Te dije que no comenzaras con el pie izquierdo y ¡mírate!, has perdido más vida de la que puedes recuperar en este momento y ni hablar de tus habilidades. Podrías escucharme la próxima vez.
+Personaje: ¿Cómo llego a la salida?
+Asistente:  Me temo que no puedo decírtelo, tendrás que descubrirlo por tu cuenta. Pero, sí puedo mencionar que es más fácil de lo que crees.
+Personaje: Sólo dime a dónde debo ir.
+Asistente: Bueno, de nuevo te encuentras entre un camino que se bifurca, y aunque ya has empezado con el pie izquierdo, te recomendaría no seguir así.

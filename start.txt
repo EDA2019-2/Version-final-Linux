@@ -1,0 +1,4 @@
+Personaje: ¿Donde estoy?
+Asistente: Yo soy tu asistente, te ayudare a llegar a donde deseas.
+Personaje: ¿Que lugar es este?
+Asistente: No pareces hacer las preguntas correctas. Adelante, atraviesa esa puerta y llega por tu cuenta a tu destino, pareces tener lo necesario.

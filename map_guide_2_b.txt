@@ -1,0 +1,5 @@
+2b1.txt
+2b2.txt
+map_guide_3_ba.txt
+map_guide_3_bb.txt
+0	0	0	2	0	0

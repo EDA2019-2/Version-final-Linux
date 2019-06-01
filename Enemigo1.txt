@@ -1,0 +1,2 @@
+Soldado Hayai
+20	60	10	5  1
