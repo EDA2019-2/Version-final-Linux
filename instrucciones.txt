@@ -1,0 +1,1 @@
+gcc -Wall -std=c99 -o proyecto.out proyecto_main.c personaje.c DLLyAtaque.c
