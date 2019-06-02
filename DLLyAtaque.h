@@ -32,7 +32,7 @@ typedef struct
 
 
 /*
-* @brief Crea un Ataque y lo Almacena en una DLL
+* @brief Crea un ataque y lo almacena en una DLL
 * @param Un apuntador a la DLL en donde se almacenara el ataque y el numero del ataque 
 */
 void newAtaque( DLL*this, int type );
@@ -46,7 +46,7 @@ DLL* DLL_New();
 /*
 * @brief Apunta al nodo en el que se encuentra el cursor de la DLL de ataques
 * @param Un apuntador a DLL 
-* @return Devuelve el Ataque que es apuntado por el cursor de la DLL
+* @return Devuelve el ataque que es apuntado por el cursor de la DLL
 */
 Ataque DLL_Peek( DLL* this );
 
@@ -84,13 +84,12 @@ void DLL_MakeEmpty( DLL* this );
 /*
 * @brief Indica la cantidad de ataques en la DLL 
 * @param Un apuntador a DLL
-* @return La cantidad de Ataques en la DLL
+* @return La cantidad de ataques en la DLL
 */
 size_t DLL_Len( DLL* this );
 
 /*
-* @brief Muestra un menu en el cual el usuario indicara 
-	que ataque desea utilizar 
+* @brief Muestra un menu en el cual el usuario indicara que ataque desea utilizar 
 * @param Un apuntador a DLL
 * @return El ataque seleccionado por el usuario 
 */
